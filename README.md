@@ -1,37 +1,22 @@
-##### *Ever felt your factory buildings are too cuboid? Wished that your ramp walls were just that little bit steeper? Frustrated by the lack of options for sloped glass?*
----
+# SatisfactoryModLoader [![CI](https://github.com/satisfactorymodding/SatisfactoryModLoader/actions/workflows/build.yml/badge.svg)](https://github.com/satisfactorymodding/SatisfactoryModLoader/actions/workflows/build.yml)
 
-**Ada's Aesthetic Assets** is a small decor mod which adds a few new variants of existing buildables that I felt were missing from Satisfactory's vanilla buildable catalogue. With these new advancements in structural engineering, it's now possible for you to construct:
+A tool used to load mods for the game Satisfactory. After Coffee Stain releases a proper Unreal modding API the project will continue as a utilities library.
 
-* Narrower walls
-* Ramp windows
-* Tilted windows
-* The old Left and Right Stairs (Yay!)
-* A new set of "*Slanted*" walls and windows at an incline of 60° (8m high, 4m deep)
-  * Slanted Walls & Steel Walls
-  * Slanted Ramp Walls & Steel Ramp Walls
-  * Slanted Windows
-  * Slanted Glass Roofs
- * Automated recipes for leaves and wood    ¯\\\_(ツ)_/¯
+This repository contains the SatisfactoryModLoader source code,
+an ExampleMod with demos of some of the SML utilities,
+a collection of editor utilities,
+and more.
+It also serves as the Unreal project used for developing mods.
 
----
-\
-All of these are available from a Tier 1 milestone at appropriate material costs, and are fully integrated with the vanilla node-placement building-system, painting, and zooping.
+## Documentation
 
-Now, even your architectural designs can be optimized to FISCIT-Approved benchmarks for geometric diversity!
+Learn how to set up and use this repo on the [modding documentation](https://docs.ficsit.app/).
 
-\
-![alt text](https://diamond-hunter-zero.github.io/GameDev-Llama/AdaAestheticAssets/AdasAssetsExample1.jpg)
-![alt text](https://diamond-hunter-zero.github.io/GameDev-Llama/AdaAestheticAssets/AdasAssetsExample2.jpg)
-![alt text](https://diamond-hunter-zero.github.io/GameDev-Llama/AdaAestheticAssets/AdasAssetsExample3.jpg)
+## Discord Server
 
-You can find the buildables under these Build-Menu categories:
+Join our [discord server](https://discord.gg/QzcG9nX) to talk about SML and Satisfactory Modding in general.
 
-![alt text](https://diamond-hunter-zero.github.io/GameDev-Llama/AdaAestheticAssets/BuildMenuOptions.png)
+## DISCLAIMER
 
-![alt text](https://diamond-hunter-zero.github.io/GameDev-Llama/AdaAestheticAssets/AdasAssetsWall1.jpg)
-![alt text](https://diamond-hunter-zero.github.io/GameDev-Llama/AdaAestheticAssets/AdasAssetsWall2.jpg)
-![alt text](https://diamond-hunter-zero.github.io/GameDev-Llama/AdaAestheticAssets/AdasAssetsWall3.jpg)
-
-\
-A mod by **Direct Delete Games**
+This software is provided by the author "as is". In no event shall the author be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any
+theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
